@@ -214,7 +214,7 @@ ul > li {
 
 .fade-slider__text--style-tshirt {
     position: absolute;
-    left: 53%;
+    left: 50%;
     top: 51%;
     transform: translate(-164%, -52% );
 }
